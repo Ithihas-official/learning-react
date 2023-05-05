@@ -1,0 +1,6 @@
+export const CLEAR_ITEMS = "CLEAR ITEMS";
+export const REMOVE_ITEM = "REMOVE_ITEM";
+export const AMOUNT_INCREASE = "AMOUNT_INCREASE";
+export const AMOUNT_DECREASE = "AMOUNT_DECREASE";
+export const LOADING = "LOADING";
+export const DISPLAY_ITEMS = "DISPLAY_ITEMS";
